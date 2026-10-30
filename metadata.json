@@ -1,0 +1,6 @@
+{
+  "name": "Painel de LED de Natal para Sacada | Casa Nivra",
+  "description": "Painel de LED de Natal para Sacada com Aplicativo e Controle Remoto. Desenhos de Natal em LED na grade da sua sacada, visíveis da rua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
